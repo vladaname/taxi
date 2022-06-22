@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:14:31:42 +0100] "GET /TaxiAppWEB/ZaradaPoIdKorisnik HTTP/1.1" 200 630
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:14:32:01 +0100] "POST /TaxiAppWEB/ZaradaPoIdKorisnik HTTP/1.1" 500 1588
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:14:33:36 +0100] "GET /TaxiAppWEB/ZaradaPoIdKorisnik HTTP/1.1" 200 630
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:14:33:47 +0100] "POST /TaxiAppWEB/ZaradaPoIdKorisnik HTTP/1.1" 500 1588
+127.0.0.1 - - [31/Dec/2018:14:38:48 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:14:38:54 +0100] "GET /TaxiAppWEB/ZaradaPoIdKorisnik HTTP/1.1" 200 630
+127.0.0.1 - - [31/Dec/2018:14:39:52 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:14:39:53 +0100] "GET /TaxiAppWEB/ZaradaPoIdKorisnik HTTP/1.1" 200 630
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:14:40:08 +0100] "POST /TaxiAppWEB/ZaradaPoIdKorisnik HTTP/1.1" 500 1588
+127.0.0.1 - - [31/Dec/2018:15:13:35 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:15:14:12 +0100] "GET /TaxiAppWEB/ListAllIdZauzetoVoznja HTTP/1.1" 200 1472
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:15:15:04 +0100] "POST /TaxiAppWEB/ListAllIdZauzetoVoznja HTTP/1.1" 200 1275
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:15:16:29 +0100] "GET /TaxiAppWEB/ListAllIdZauzetoVoznja HTTP/1.1" 200 1472
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:15:18:15 +0100] "GET /TaxiAppWEB/ListAllIdZauzetoVoznja HTTP/1.1" 200 1435
+0:0:0:0:0:0:0:1 - - [31/Dec/2018:15:18:41 +0100] "GET /TaxiAppWEB/ListAllIdZauzetoVoznja HTTP/1.1" 200 1472

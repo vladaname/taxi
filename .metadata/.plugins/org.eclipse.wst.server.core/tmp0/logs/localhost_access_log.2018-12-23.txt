@@ -1,0 +1,15 @@
+127.0.0.1 - - [23/Dec/2018:13:28:56 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:13:29:12 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 500 3557
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:13:29:13 +0100] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:13:29:19 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 500 4733
+127.0.0.1 - - [23/Dec/2018:13:33:18 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:13:33:28 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 4733
+127.0.0.1 - - [23/Dec/2018:13:43:35 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:13:43:45 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 4733
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:13:44:04 +0100] "POST /TaxiAppWEB/AssignDispecer HTTP/1.1" 500 1712
+127.0.0.1 - - [23/Dec/2018:14:01:03 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:14:01:15 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 4705
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:14:01:22 +0100] "POST /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 4705
+127.0.0.1 - - [23/Dec/2018:14:20:14 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:14:20:23 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 4705
+0:0:0:0:0:0:0:1 - - [23/Dec/2018:14:20:32 +0100] "POST /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 3645

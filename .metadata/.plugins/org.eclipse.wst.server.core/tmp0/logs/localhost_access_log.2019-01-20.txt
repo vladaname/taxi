@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:08:59:54 +0100] "GET /TaxiAppWEB/Reservatin HTTP/1.1" 200 2263
+127.0.0.1 - - [20/Jan/2019:09:35:10 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:35:17 +0100] "GET /TaxiAppWEB/Reservatin HTTP/1.1" 200 2263
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:35:48 +0100] "POST /TaxiAppWEB/Reservatin HTTP/1.1" 200 877
+127.0.0.1 - - [20/Jan/2019:09:39:37 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:39:39 +0100] "GET /TaxiAppWEB/Reservatin HTTP/1.1" 200 2263
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:40:09 +0100] "POST /TaxiAppWEB/Reservatin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:40:10 +0100] "GET /TaxiAppWEB/AssignDispecerJSP.jsp HTTP/1.1" 200 877
+127.0.0.1 - - [20/Jan/2019:09:42:14 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:42:14 +0100] "GET /TaxiAppWEB/Reservatin HTTP/1.1" 200 2263
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:42:42 +0100] "POST /TaxiAppWEB/Reservatin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2019:09:42:43 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 6276

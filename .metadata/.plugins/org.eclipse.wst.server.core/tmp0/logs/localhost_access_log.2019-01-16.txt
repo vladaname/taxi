@@ -1,0 +1,15 @@
+127.0.0.1 - - [16/Jan/2019:18:29:35 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:18:29:49 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 5253
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:18:30:00 +0100] "POST /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 4246
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:18:30:07 +0100] "POST /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 3341
+127.0.0.1 - - [16/Jan/2019:18:45:29 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:18:45:40 +0100] "GET /TaxiAppWEB/AssignDispecer HTTP/1.1" 200 5253
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:18:45:52 +0100] "POST /TaxiAppWEB/AssignDispecer HTTP/1.1" 500 1279
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:18:50:38 +0100] "POST /TaxiAppWEB/AssignDispecer HTTP/1.1" 500 1279
+127.0.0.1 - - [16/Jan/2019:21:51:35 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:21:51:43 +0100] "GET /TaxiAppWEB/ZavrsiVoznju HTTP/1.1" 200 1279
+127.0.0.1 - - [16/Jan/2019:21:53:04 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:21:53:11 +0100] "GET /TaxiAppWEB/ZavrsiVoznju HTTP/1.1" 200 1279
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:21:53:25 +0100] "POST /TaxiAppWEB/ZavrsiVoznju HTTP/1.1" 500 1322
+127.0.0.1 - - [16/Jan/2019:22:03:57 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Jan/2019:22:04:05 +0100] "GET /TaxiAppWEB/ZavrsiVoznju HTTP/1.1" 200 1279

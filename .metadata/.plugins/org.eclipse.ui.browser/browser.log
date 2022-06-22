@@ -1,0 +1,40 @@
+
+Nov 25, 2018 16:48:38.60 NEW SESSION
+Nov 25, 2018 16:48:38.60 [868:12544:1125/164837.939:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+Nov 25, 2018 16:48:39.25 [868:12544:1125/164837.939:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Nov 25, 2018 16:48:39.30 [868:12544:1125/164837.939:ERROR:disk_cache.cc(168)] Unable to create cache
+Nov 25, 2018 16:48:39.33 [868:12544:1125/164837.939:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+Nov 25, 2018 16:48:52.22 Created new window in existing browser session.
+
+Jan 03, 2019 12:10:44.00 NEW SESSION
+Jan 03, 2019 12:10:44.35 [12104:10876:0103/121043.313:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Jan 03, 2019 12:10:44.91 [12104:10876:0103/121043.314:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jan 03, 2019 12:10:44.92 [12104:10876:0103/121043.314:ERROR:disk_cache.cc(184)] Unable to create cache
+Jan 03, 2019 12:10:44.93 [12104:10876:0103/121043.314:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Jan 03, 2019 12:10:57.30 Opening in existing browser session.
+Jan 08, 2019 13:53:25.56 [17712:1664:0108/135325.550:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 13:54:15.11 [17712:1664:0108/135415.113:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 13:55:18.45 [17712:1664:0108/135518.419:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 13:57:18.28 [17712:1664:0108/135718.289:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 14:00:31.92 [17712:1664:0108/140031.923:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 14:07:58.84 [17712:1664:0108/140758.845:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 14:08:14.42 [17712:1664:0108/140814.423:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-7).
+Jan 08, 2019 14:18:19.90 [17712:1664:0108/141819.907:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 14:28:40.96 [17712:1664:0108/142840.961:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 14:39:02.01 [17712:1664:0108/143902.017:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 14:49:23.07 [17712:1664:0108/144923.071:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 14:59:44.11 [17712:1664:0108/145944.111:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 18:09:35.56 [17712:1664:0108/180935.562:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 18:09:40.91 [17712:17644:0108/180937.666:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 08, 2019 22:46:46.36 [17712:17644:0108/224646.362:ERROR:connection_factory_impl.cc(408)] Failed to connect to MCS endpoint with error -118
+Jan 08, 2019 22:48:06.02 [17712:1664:0108/224806.021:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2019 22:48:07.70 [17712:17644:0108/224807.702:ERROR:connection_factory_impl.cc(408)] Failed to connect to MCS endpoint with error -21
+Jan 08, 2019 23:09:00.32 [17712:1664:0108/230900.247:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+
+Apr 11, 2019 18:45:37.41 NEW SESSION
+Apr 11, 2019 18:45:37.42 [8736:9596:0411/184537.347:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Apr 11, 2019 18:45:37.87 [8736:9596:0411/184537.347:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\john\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Apr 11, 2019 18:45:37.87 [8736:9596:0411/184537.347:ERROR:disk_cache.cc(184)] Unable to create cache
+Apr 11, 2019 18:45:37.89 [8736:9596:0411/184537.347:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Apr 11, 2019 18:45:44.37 [8736:9596:0411/184544.372:ERROR:browser_process_sub_thread.cc(209)] Waited 956 ms for network service
+Apr 11, 2019 18:45:46.26 Opening in existing browser session.

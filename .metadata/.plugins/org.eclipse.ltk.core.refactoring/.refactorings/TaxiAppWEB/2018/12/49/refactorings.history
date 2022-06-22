@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TaxiAppWEB/WebContent/AssignDispecer.jsp&apos; to &apos;AssignDispecerJSP.jsp&apos;" description="Rename resource &apos;AssignDispecer.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/AssignDispecer.jsp" name="AssignDispecerJSP.jsp" stamp="1544265682195" updateReferences="true"/>
+</session>
